@@ -1,0 +1,3 @@
+USE Курс
+
+SELECT * FROM RATES
